@@ -1,6 +1,8 @@
 # Dimitrios Stivaktas — portfolio
 
-Classroom tools and teaching resources, designed by a teacher and built with AI.
+Educational technology, built around learning.
+
+Science and STEM teacher, Sydney. ICT Educator of the Year 2026, ICT Educators NSW.
 
 Live site: https://dstiv-ai.github.io/portfolio/
 
